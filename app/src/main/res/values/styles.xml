@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ProgressBarHorizontal" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:indeterminateDrawable">@drawable/progress_horizontal</item>
+    </style>
+</resources>
